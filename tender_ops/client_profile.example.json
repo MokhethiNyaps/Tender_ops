@@ -1,0 +1,42 @@
+{
+  "entity": {
+    "legal_name": null,
+    "registration_number": null,
+    "entity_type": null,
+    "physical_address": null,
+    "authorised_signatory": null,
+    "signatory_authority_evidence": null
+  },
+  "registrations": {
+    "csd_supplier_number": null,
+    "sars_tax_pin": null,
+    "cidb_crs_number": null,
+    "cidb_grade_class": null,
+    "coid_good_standing_expiry": null
+  },
+  "bbbee": {
+    "evidence_type": null,
+    "status_level": null,
+    "annual_turnover_band": null,
+    "black_ownership_percent": null,
+    "evidence_expiry": null
+  },
+  "commercial": {
+    "vat_number": null,
+    "bank_letter_date": null,
+    "estimator_name": null,
+    "price_approved": false
+  },
+  "capability": {
+    "locality_evidence": null,
+    "completed_project_references": [],
+    "key_personnel": [],
+    "equipment": [],
+    "current_commitments": []
+  },
+  "approvals": {
+    "facts_approved_by_client": false,
+    "disclosures_approved_by_client": false,
+    "final_release_approved_by_client": false
+  }
+}
